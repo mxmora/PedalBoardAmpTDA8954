@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDA8954
+D TDA8954 Class D Amp
+K Class D Amp
+F https://www.nxp.com/docs/en/data-sheet/TDA8954.pdf
+$ENDCMP
+#
+#End Doc Library
